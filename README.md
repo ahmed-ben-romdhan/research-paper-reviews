@@ -6,6 +6,7 @@ A curated collection of research paper reviews across mathematics, physics, and 
 My name is Ahmed Ben Romdhane, and I am a Tunisian student deeply passionate about mathematics, logic, and physics. I graduated with an excellent score of 17.69/20 in the Baccalauréat, earning the highest distinction, “Excellent”. Following this, I completed two years of intensive classes préparatoires scientifiques (MPSI/MP*), part of the highly selective French preparatory system.
 
 During these two years, I studied a broad and rigorous curriculum, including:
+
 🔹 Mathematics:
 
     Algebra (linear, multilinear, abstract)
@@ -57,6 +58,7 @@ During these two years, I studied a broad and rigorous curriculum, including:
     Engineering fundamentals
 
 After these studies, I ranked 30th nationwide out of approximately 1,800 candidates in Tunisia’s competitive national entrance exam and was admitted to École Polytechnique de Tunisie, the country’s most selective engineering school.
+
 🎯 Purpose of This Repository
 
 I built this repository as a research journal and learning log, with the goal to:
